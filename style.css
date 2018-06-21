@@ -1,0 +1,50 @@
+.col-4 {
+
+    background-color: aquamarine;
+    background: linear-gradient(rgb(9, 6, 201), rgb(158, 158, 69));
+}
+
+
+.logo img {
+    block-size: 170px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.navigation {
+    font: 1.3em sans-serif;
+    padding-top: 50px;
+    float: right;
+    margin: 20px;
+    text-decoration: none;
+    text-shadow: 2px 2px 5px #19586b;
+}
+
+.navigation li a {
+    text-decoration: none;
+}
+
+.navigation li {
+    padding: 20px;
+    display: inline-block
+}
+
+.col-8{
+    background-color: aquamarine;
+    background: linear-gradient(#0906c9, #9e9e45);
+}
+
+footer  {
+    background: linear-gradient(#9e9e45, #0906c9);
+}
+
+/* .demo {
+    max-width: 600px;
+    max-height: 400px;
+    
+} */
+
+.carousel-inner img {
+    width: 600px;
+    height: 400px;
+}
